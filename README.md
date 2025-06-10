@@ -1,0 +1,1 @@
+# app-extrator-coordenadas-geo
